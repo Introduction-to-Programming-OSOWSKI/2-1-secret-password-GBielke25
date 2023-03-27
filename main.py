@@ -4,3 +4,4 @@ def password(p):
     else:
         return "Access Deined"
 password("Knights19")
+password("password") 
