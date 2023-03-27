@@ -3,5 +3,3 @@ def password(p):
         return "Access Granted"
     else:
         return "Access Deined"
-password("Knights19")
-password("password") 
